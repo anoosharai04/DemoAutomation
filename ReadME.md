@@ -13,3 +13,8 @@ HOW TO PULL THE SOURCE PROJECT FROM GIT REPO-
 3. Browse for a Path with an empty folder to clone the source repo
 3. After cloning the source repo, click on 'Build Solution' to view all tests.
 4. Open the Test Explorer and run tests to view results
+
+BEFORE AUTOMATING THE TEST SCENARIO-
+1. Create feature Branch : 'feature/Test1'
+2. Automate the test scenario.
+3. Commit and push the changes.
